@@ -1,5 +1,10 @@
 # Sentiment Intelligence AI
 
+## 🚀 Live Demo
+
+[Click here to open Sentiment Intelligence AI](https://sentiment-intelligence-ai-gdkn8irnmhwemuwjkodhje.streamlit.app/)
+
+---
 An AI-powered sentiment analysis system that classifies text into Positive, Negative, and Neutral categories using fine-tuned transformer models, LoRA, QLoRA, and an intelligent AI assistant.
 
 ## 1. Project Overview
