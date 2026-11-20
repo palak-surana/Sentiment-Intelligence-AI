@@ -9,3 +9,4 @@ matplotlib
 seaborn
 streamlit
 plotly
+peft
