@@ -1,4 +1,3 @@
-
 torch
 transformers
 datasets
@@ -10,3 +9,5 @@ seaborn
 streamlit
 plotly
 peft
+langchain
+langchain-ollama
